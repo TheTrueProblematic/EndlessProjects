@@ -1,0 +1,243 @@
+Word Frequency Counter
+Simple To-Do List App
+Temperature Unit Converter
+Random Password Generator
+Caesar Cipher Encoder/Decoder
+Simple Calculator
+Number Guessing Game
+Stopwatch Timer
+Palindrome Checker
+File Renamer
+Prime Number Finder
+Countdown Timer
+Anagram Checker
+Simple Tic-Tac-Toe
+Text-Based Adventure Game
+Fibonacci Sequence Generator
+Basic Unit Converter
+Vowel Counter
+Rock Paper Scissors Game
+Simple Calendar Generator
+Character Counter (counts letters numbers and symbols)
+Dice Roller Simulator
+Mad Libs Game
+Simple Shopping List
+Odd or Even Number Checker
+Multiplication Table Generator
+Hangman Game
+Binary to Decimal Converter
+Decimal to Binary Converter
+Reverse a String
+Factorial Finder
+Simple Interest Calculator
+Compound Interest Calculator
+Largest Number Finder
+Smallest Number Finder
+Average of Numbers Calculator
+Basic File Encryption
+Text File Merger
+Simple Text-Based Maze Game
+Simple Typing Speed Test
+Word Scramble Game
+Password Strength Checker
+Sorting Algorithm Visualizer (using print statements)
+Armstrong Number Checker
+Leap Year Checker
+LCM and GCD Finder
+Quadratic Equation Solver
+Basic BMI Calculator
+String Reversal
+Alphabetical Sorter
+Matrix Addition Calculator
+Matrix Multiplication Calculator
+Temperature Conversion Chart Generator
+Random Quote Generator
+Magic 8-Ball Simulator
+Hexadecimal to Decimal Converter
+Decimal to Hexadecimal Converter
+Basic Email Validator
+Password Validator (with specific rules)
+Roman Numeral Converter
+Find Duplicates in a List
+Day of the Week Finder (for any given date)
+Basic Stopwatch
+ASCII Art Generator
+Sentence Capitalizer
+Sentence Reverser
+Palindrome Date Finder
+Number Divider (finds divisors of a number)
+Currency Denomination Breaker (breaks a number into bills and coins)
+Area and Perimeter Calculator for Shapes
+Convert Time to Seconds and Back
+Morse Code Encoder/Decoder
+Count Words in a Sentence
+Find Most Common Character in a String
+Month Calendar Display
+Generate Random Sentences
+Substring Finder
+Compound Word Splitter
+Simple Markdown to HTML Converter
+Character Occurrence Histogram
+Grade Average Calculator
+List Reverser
+Intersection of Two Lists
+Union of Two Lists
+List Duplicates Remover
+Flatten a List of Lists
+Find Min Max in a List of Tuples
+Calculate Distance Between Two Points
+Shuffle a List
+Simple Acronym Generator
+Compare Two Text Files
+String Compression Algorithm
+Sum of List Elements
+Merge Two Lists Alternating
+Create a Random Email Address
+Find Unique Characters in a String
+Rounding Numbers to Nearest Whole Number
+Print Prime Factors of a Number
+Text Case Converter (upper lower title)
+Sum of Digits in a Number
+Find All Permutations of a String
+First Non-Repeated Character in a String
+Count the Number of Lines in a File
+Text Justification (left right center alignment)
+Valid Parentheses Checker
+Capitalize First Letter of Every Word in a String
+Replace a Substring in a String
+Reverse the Words in a Sentence
+Multiply All Elements in a List
+Generate Random Numbers Without Repetition
+Sum of Squares of First N Natural Numbers
+Calculate the nth Fibonacci Number
+Merge Sort Algorithm
+Quick Sort Algorithm
+Insertion Sort Algorithm
+Bubble Sort Algorithm
+Selection Sort Algorithm
+Convert Infix Expression to Postfix
+Evaluate Postfix Expression
+Implement a Stack Using a List
+Implement a Queue Using a List
+Binary Search Algorithm
+Linear Search Algorithm
+Convert Decimal to Octal
+Convert Octal to Decimal
+Find Intersection of Two Sets
+Find Difference of Two Sets
+Simple Voting System (Majority Wins)
+Find Median of a List
+Find Mode of a List
+Find Range of a List
+Check if a List is Sorted
+Check if a Number is a Perfect Number
+Calculate the Power of a Number (without using pow())
+Find the Square Root of a Number (without using sqrt())
+Create a Pattern Printer (e.g. pyramid triangle etc.)
+Count Palindromes in a Sentence
+Find Subsets of a Set
+Convert Time from 12-hour Format to 24-hour Format
+Convert Time from 24-hour Format to 12-hour Format
+Find the Greatest Common Divisor (GCD)
+Find the Least Common Multiple (LCM)
+Convert a List to a Dictionary
+Convert a Dictionary to a List
+Find Most Frequent Word in a Text File
+Check if a String is a Valid Palindrome (ignoring spaces case punctuation)
+Find Missing Number in a List of Consecutive Numbers
+Check if a String Contains Only Digits
+Calculate Hamming Distance Between Two Strings
+Capitalize Even and Odd Indexed Characters Alternately
+Validate a Credit Card Number (using Luhn algorithm)
+Calculate Age from Birthdate
+Convert Roman Numerals to Integers
+Convert Integers to Roman Numerals
+Convert Binary to Hexadecimal
+Convert Hexadecimal to Binary
+Convert Temperature to Rankine
+Simple Spell Checker
+Identify Palindrome Numbers
+Simple Markov Chain Text Generator
+Find All Factors of a Number
+Sum Two Large Numbers as Strings
+Implement Caesar Cipher with Negative Shift
+Implement ROT13 Cipher
+Count the Number of Primes in a Range
+Find the Longest Word in a Sentence
+Convert Uppercase to Lowercase Without Using Built-In Functions
+Count the Number of Each Vowel in a String
+Find and Replace All Occurrences of a Substring
+Convert a Fraction to Decimal
+Find the Most Common Element in a List
+Sum of a Geometric Progression
+Find Whether a Number is Automorphic
+Find Whether a Number is Kaprekar
+Generate a Random Walk (2D grid)
+Count Palindromes in a Sentence
+Count Words in a Sentence
+Check if Two Lists Are Equal
+Find All Prime Factors of a Number
+Create a 2D List (Matrix) from User Input
+Find the First Occurrence of a Substring
+Rotate a List Left or Right by a Given Number
+Find the Longest Palindromic Substring
+Sort an Array of 0s 1s and 2s
+Generate a Random Color in Hexadecimal
+Convert Text to Pig Latin
+Detect if a Year is a Leap Year
+Find the Longest Common Prefix Among Strings
+Merge Two Dictionaries
+Sort a List of Dictionaries by a Key
+Count the Number of Words in a File
+Read and Print a File Line by Line
+Convert Text to Morse Code
+Convert Morse Code to Text
+Count the Number of Sentences in a Paragraph
+Implement a Stack Data Structure
+Implement a Queue Data Structure
+Find the Intersection of Two Arrays
+Find the Union of Two Arrays
+Implement a Double-Ended Queue
+Flatten a List of Lists
+Reverse the Digits of a Number
+Generate Prime Numbers Using the Sieve of Eratosthenes
+Implement a Circular Queue
+Reverse a Linked List (singly)
+Find the Middle Element of a Linked List
+Implement a Priority Queue
+Calculate Power of a Number Using Recursion
+Find the Maximum Sum of a Subarray (Kadane's Algorithm)
+Transpose a Matrix
+Flatten a 2D Matrix into a 1D Array
+Simulate a Dice Roll and Print Histogram of Results
+Implement a Basic Linked List
+Implement a Stack Using Two Queues
+Implement a Queue Using Two Stacks
+Generate All Subsequences of a String
+Find the First Missing Positive Integer in a List
+Implement Merge Intervals
+Find the Maximum Difference Between Two Elements in a List
+Find the Minimum Difference Between Two Elements in a List
+Sort a List of Tuples by the Second Element
+Find the kth Smallest Element in a List
+Find the kth Largest Element in a List
+Determine if a Number is Happy
+Generate Random Subsets of a Set
+Find the Second Largest Element in a List
+Implement a Simple Caesar Cipher Brute Force Decoder
+Implement Binary Exponentiation
+Detect If a Point Is Inside a Triangle
+Calculate nCr (Combinations) and nPr (Permutations)
+Calculate Compound Interest (with regular intervals)
+Find the nth Root of a Number
+Calculate the Area of a Triangle Given Its Three Sides (Heron's formula)
+Calculate the Perimeter of a Circle
+Calculate the Volume of a Sphere
+Calculate the Surface Area of a Cylinder
+Find All Divisors of a Number
+Find the nth Prime Number
+Implement a Depth-First Search (DFS) Algorithm
+Implement a Breadth-First Search (BFS) Algorithm
+Create a Pattern Printer (e.g. pyramid triangle etc.)
+Detect if a String is a Valid Palindrome (ignoring spaces case punctuation)
+Implement a Basic Deque
