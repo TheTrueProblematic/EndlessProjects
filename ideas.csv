@@ -1,4 +1,3 @@
-NumberGuessing,A number guessing game where the program gives hints if the guess is too high or too low.
 Stopwatch,A simple stopwatch timer that tracks elapsed time and allows stopping and resetting.
 PalindromeChecker,Check if a given word or sentence is a palindrome.
 FileRenamer,Rename multiple files in a directory based on a user-specified pattern.
