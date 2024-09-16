@@ -1,4 +1,3 @@
-TicTacToe,A simple two-player Tic-Tac-Toe game played on the command line.
 AdventureGame,A text-based adventure game with simple branching choices.
 FibonacciGenerator,Generate the Fibonacci sequence up to a user-defined number.
 UnitConverter,"Convert between various units such as length, weight, and volume."
