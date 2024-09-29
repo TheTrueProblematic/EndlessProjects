@@ -1,4 +1,3 @@
-BinaryToDecimal,Convert a binary number to its decimal equivalent.
 DecimalToBinary,Convert a decimal number to its binary equivalent.
 ReverseString,Reverse a given string.
 FactorialFinder,Find the factorial of a given number.
