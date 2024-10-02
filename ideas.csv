@@ -1,4 +1,3 @@
-FactorialFinder,Find the factorial of a given number.
 SimpleInterest,"Calculate simple interest based on user input for principal, rate, and time."
 CompoundInterest,"Calculate compound interest based on user input for principal, rate, time, and compounding frequency."
 LargestNumber,Find the largest number in a list of numbers.
