@@ -1,4 +1,3 @@
-WordScramble,Create a word scramble game where the user guesses the original word.
 PasswordStrength,"Check the strength of a password based on length, use of symbols, and character variety."
 SortingVisualizer,Print a visual representation of how a sorting algorithm works.
 ArmstrongChecker,Check if a given number is an Armstrong number.
