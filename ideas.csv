@@ -1,4 +1,3 @@
-PasswordStrength,"Check the strength of a password based on length, use of symbols, and character variety."
 SortingVisualizer,Print a visual representation of how a sorting algorithm works.
 ArmstrongChecker,Check if a given number is an Armstrong number.
 LeapYearChecker,Check if a given year is a leap year.
