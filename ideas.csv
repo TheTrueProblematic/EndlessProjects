@@ -1,4 +1,3 @@
-HexToDecimal,Convert a hexadecimal number to its decimal equivalent.
 DecimalToHex,Convert a decimal number to its hexadecimal equivalent.
 EmailValidator,Check if a string follows a valid email address format.
 PasswordValidator,"Validate a password based on length and specific rules (e.g., symbols, numbers)."
