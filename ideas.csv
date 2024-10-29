@@ -1,4 +1,3 @@
-EmailValidator,Check if a string follows a valid email address format.
 PasswordValidator,"Validate a password based on length and specific rules (e.g., symbols, numbers)."
 RomanConverter,Convert Roman numerals to integers and vice versa.
 FindDuplicates,Find and display duplicate values in a list.
