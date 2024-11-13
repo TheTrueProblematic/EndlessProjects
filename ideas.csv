@@ -1,4 +1,3 @@
-TimeConverter,"Convert time between hours, minutes, and seconds."
 MorseEncoderDecoder,Encode and decode messages in Morse code.
 WordCounter,Count the number of words in a sentence.
 MostCommonChar,Find the most common character in a string.
