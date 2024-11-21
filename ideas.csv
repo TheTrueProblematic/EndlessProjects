@@ -1,4 +1,3 @@
-CharHistogram,Generate a histogram showing the occurrence of each character in a string.
 GradeAverage,Calculate the average grade from a list of scores.
 ListReverser,Reverse the order of elements in a list.
 ListIntersection,Find the intersection of two lists.
