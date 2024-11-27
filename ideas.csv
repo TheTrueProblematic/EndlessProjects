@@ -1,4 +1,3 @@
-FlattenList,Flatten a list of lists into a single list.
 MinMaxTuples,Find the minimum and maximum values in a list of tuples.
 DistanceCalculator,Calculate the distance between two points on a plane.
 ShuffleList,Shuffle a list of items randomly.
