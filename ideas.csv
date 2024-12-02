@@ -1,4 +1,3 @@
-ShuffleList,Shuffle a list of items randomly.
 AcronymGenerator,Create an acronym from a given phrase or set of words.
 TextFileComparer,Compare two text files and highlight the differences.
 StringCompressor,Implement a basic string compression algorithm.
