@@ -1,4 +1,3 @@
-TextAlignment,"Align text to the left, right, or center."
 ValidParentheses,Check if a string has valid parentheses.
 CapitalizeWords,Capitalize the first letter of every word in a string.
 SubstringReplacer,Replace all occurrences of a substring in a string.
