@@ -1,4 +1,3 @@
-EvaluatePostfix,Evaluate a postfix expression.
 StackUsingList,Implement a stack data structure using a list.
 QueueUsingList,Implement a queue data structure using a list.
 BinarySearch,Implement the binary search algorithm.
