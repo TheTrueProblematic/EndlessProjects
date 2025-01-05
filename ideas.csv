@@ -1,4 +1,3 @@
-OctalToDecimal,Convert an octal number to its decimal equivalent.
 SetIntersection,Find the intersection of two sets.
 SetDifference,Find the difference of two sets.
 MajorityVote,Simulate a simple voting system where majority wins.
