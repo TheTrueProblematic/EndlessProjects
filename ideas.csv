@@ -1,4 +1,3 @@
-ListMode,Find the mode of a list of numbers.
 ListRange,Find the range (max - min) of a list of numbers.
 IsListSorted,Check if a list is sorted in ascending or descending order.
 PerfectNumberChecker,Check if a number is a perfect number.
