@@ -1,4 +1,3 @@
-IsListSorted,Check if a list is sorted in ascending or descending order.
 PerfectNumberChecker,Check if a number is a perfect number.
 PowerCalculator,Calculate the power of a number without using the pow() function.
 SquareRootCalculator,Find the square root of a number without using sqrt().
