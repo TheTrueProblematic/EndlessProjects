@@ -1,4 +1,3 @@
-ListToDict,Convert a list of tuples into a dictionary.
 DictToList,Convert a dictionary into a list of tuples.
 MostFrequentWord,Find the most frequent word in a text file.
 PalindromeCheckerIgnoreCase,"Check if a string is a valid palindrome while ignoring spaces, punctuation, and case."
