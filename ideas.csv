@@ -1,4 +1,3 @@
-DigitsOnlyChecker,Check if a string contains only digits.
 HammingDistance,Calculate the Hamming distance between two strings.
 AlternateCaps,Capitalize even and odd indexed characters alternately in a string.
 LuhnValidator,Validate a credit card number using the Luhn algorithm.
