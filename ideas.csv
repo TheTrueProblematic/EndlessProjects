@@ -1,4 +1,3 @@
-LuhnValidator,Validate a credit card number using the Luhn algorithm.
 AgeCalculator,Calculate a person's age based on their birthdate.
 RomanToInteger,Convert a Roman numeral to its integer equivalent.
 IntegerToRoman,Convert an integer to its Roman numeral equivalent.
