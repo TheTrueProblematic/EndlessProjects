@@ -1,4 +1,3 @@
-RomanToInteger,Convert a Roman numeral to its integer equivalent.
 IntegerToRoman,Convert an integer to its Roman numeral equivalent.
 BinaryToHex,Convert a binary number to its hexadecimal equivalent.
 HexToBinary,Convert a hexadecimal number to its binary equivalent.
