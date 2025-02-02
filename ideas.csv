@@ -1,4 +1,3 @@
-BinaryToHex,Convert a binary number to its hexadecimal equivalent.
 HexToBinary,Convert a hexadecimal number to its binary equivalent.
 TemperatureToRankine,Convert a temperature from Celsius or Fahrenheit to Rankine.
 SimpleSpellChecker,Check if words in a string are spelled correctly using a predefined dictionary.
