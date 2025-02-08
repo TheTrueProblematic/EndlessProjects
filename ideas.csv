@@ -1,4 +1,3 @@
-MarkovChainText,Generate random text using a simple Markov chain model.
 FactorsFinder,Find all factors of a given number.
 SumLargeNumbers,Add two large numbers represented as strings.
 CaesarCipherNegativeShift,Implement a Caesar cipher that allows negative shifts.
