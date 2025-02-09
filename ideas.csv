@@ -1,4 +1,3 @@
-SumLargeNumbers,Add two large numbers represented as strings.
 CaesarCipherNegativeShift,Implement a Caesar cipher that allows negative shifts.
 ROT13Cipher,Implement the ROT13 cipher for encoding and decoding text.
 PrimeCount,Count the number of prime numbers in a given range.
