@@ -1,4 +1,3 @@
-ROT13Cipher,Implement the ROT13 cipher for encoding and decoding text.
 PrimeCount,Count the number of prime numbers in a given range.
 LongestWordFinder,Find the longest word in a sentence.
 UpperToLower,Convert all uppercase letters in a string to lowercase without using built-in functions.
