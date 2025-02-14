@@ -1,4 +1,3 @@
-LongestWordFinder,Find the longest word in a sentence.
 UpperToLower,Convert all uppercase letters in a string to lowercase without using built-in functions.
 VowelCount,Count the number of each vowel in a string.
 FindReplaceSubstring,Find and replace all occurrences of a substring in a string.
