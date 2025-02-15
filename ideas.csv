@@ -1,4 +1,3 @@
-VowelCount,Count the number of each vowel in a string.
 FindReplaceSubstring,Find and replace all occurrences of a substring in a string.
 FractionToDecimal,Convert a fraction to its decimal equivalent.
 MostCommonElement,Find the most common element in a list.
