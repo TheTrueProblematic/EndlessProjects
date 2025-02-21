@@ -1,4 +1,3 @@
-AutomorphicChecker,Check if a number is automorphic (the square ends with the same digits as the number).
 KaprekarChecker,Check if a number is a Kaprekar number (special property related to squares of numbers).
 RandomWalk,Simulate a random walk on a 2D grid.
 PalindromeCounter,Count the number of palindromes in a sentence.
