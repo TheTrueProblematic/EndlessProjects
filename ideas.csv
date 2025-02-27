@@ -1,4 +1,3 @@
-MatrixCreator,Create a 2D list (matrix) from user input.
 FirstSubstringOccurrence,Find the first occurrence of a substring in a string.
 ListRotator,Rotate a list left or right by a specified number of positions.
 LongestPalindromicSubstring,Find the longest palindromic substring in a given string.
