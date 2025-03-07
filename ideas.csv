@@ -1,4 +1,3 @@
-MergeDictionaries,Merge two dictionaries into one.
 SortDictByKey,Sort a list of dictionaries by a specific key.
 WordCountInFile,Count the number of words in a text file.
 PrintFileLines,Read and print the contents of a file line by line.
