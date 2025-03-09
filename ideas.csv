@@ -1,4 +1,3 @@
-WordCountInFile,Count the number of words in a text file.
 PrintFileLines,Read and print the contents of a file line by line.
 TextToMorse,Convert a string of text into Morse code.
 MorseToText,Convert Morse code into readable text.
