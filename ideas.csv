@@ -1,4 +1,3 @@
-ReverseNumber,Reverse the digits of a number.
 SieveOfEratosthenes,Generate all prime numbers up to a given number using the Sieve of Eratosthenes.
 CircularQueue,Implement a circular queue data structure.
 ReverseLinkedList,Reverse a singly linked list.
