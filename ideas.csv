@@ -1,4 +1,3 @@
-RecursionPower,Calculate the power of a number using recursion.
 KadaneAlgorithm,Find the maximum sum of a subarray using Kadane's algorithm.
 TransposeMatrix,Transpose a given matrix (swap rows and columns).
 FlattenMatrix,Flatten a 2D matrix into a 1D array.
