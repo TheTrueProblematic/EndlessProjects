@@ -1,4 +1,3 @@
-StringSubsequences,Generate all subsequences of a given string.
 FirstMissingPositive,Find the first missing positive integer in a list.
 MergeIntervals,Merge overlapping intervals in a list of intervals.
 MaxDifferenceInList,Find the maximum difference between any two elements in a list.
