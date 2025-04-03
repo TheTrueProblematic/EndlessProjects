@@ -1,4 +1,3 @@
-MinDifferenceInList,Find the minimum difference between any two elements in a list.
 SortBySecondElement,Sort a list of tuples by the second element in each tuple.
 FindKthSmallest,Find the kth smallest element in a list.
 FindKthLargest,Find the kth largest element in a list.
