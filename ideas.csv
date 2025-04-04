@@ -1,4 +1,3 @@
-SortBySecondElement,Sort a list of tuples by the second element in each tuple.
 FindKthSmallest,Find the kth smallest element in a list.
 FindKthLargest,Find the kth largest element in a list.
 HappyNumberChecker,Check if a given number is a 'happy number' (eventually reaches 1 when replaced by the sum of squares of its digits).
