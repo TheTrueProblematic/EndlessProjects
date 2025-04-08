@@ -1,4 +1,3 @@
-RandomSubsets,Generate random subsets of a given set.
 SecondLargestInList,Find the second largest element in a list.
 CaesarCipherBruteForce,Brute-force decode a Caesar cipher by trying all possible shifts.
 BinaryExponentiation,Implement binary exponentiation to quickly calculate large powers of numbers.
