@@ -1,4 +1,3 @@
-BreadthFirstSearch,Implement a breadth-first search (BFS) algorithm for a graph.
 PatternPrinter,Create a pattern printer for various shapes such as pyramids and triangles.
 ValidPalindromeChecker,"Check if a string is a valid palindrome, ignoring spaces, punctuation, and case."
 DequeImplementation,Implement a basic deque (double-ended queue) data structure.
