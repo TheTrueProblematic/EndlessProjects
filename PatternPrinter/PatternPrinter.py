@@ -1,38 +1,55 @@
 
-# Hello, fellow coder! Welcome to the Pattern Printer!
-# This jolly little python script is designed to create fun patterns, like pyramids and triangles.
-# Simply enter a shape, a character for building and a size, and voila - an ASCII art masterpiece for your viewing pleasure!
+# Hello, awesome coder! This here is your trusty PatternPrinter. 
+# It's all decked-up to churn out some interesting shapes, such as pyramids and triangles on the command line. 
+# Best part is, it doesn't need anything but plain ol' Python. So let's get rolling...
 
-# We start by defining our function for printing a pyramid.
+def print_pyramid(n):
+    """
+    This fun little function prints a pyramid.
+    You know, like the beautiful ones in Egypt. But made with characters. Not so big though. :)
+    """
+    for i in range(n):
+        print(' ' * (n - i - 1) + '*' * (2 * i + 1))
 
-def print_pyramid(char, size):
-    # Looping through the number of lines defined by the size.
-    for i in range(size):
-        # Creating each line, the ' ' * (size - i) makes sure that we properly center the pyramid.
-        print(' ' * (size - i) + char * (2 * i + 1))
+def print_triangle(n):
+    """
+    This one does triangles.
+    Not the Bermuda kind of course! We don't want to get lost. :P
+    """
+    for i in range(n):
+        print(' ' * (n - i - 1) + '*' * (i + 1))
 
-# Next, we define our function for printing a triangle.
-def print_triangle(char, size):
-    # Similar approach as before, but without the centering.
-    for i in range(size):
-        print(char * (i + 1))
-
-# Now let's define a main function to tie things together.
 def main():
-    # Here we get the user's input - shape, character and size.
-    shape = input('Enter a shape (pyramid/triangle): ')
-    char = input('Enter a character for building: ')
-    size = int(input('Enter the size of the shape: '))
+    """
+    Here's where we decide which lovely pattern to print.
+    It's like our tour guide to the world of patterns. Cool, huh?
+    """
+    print("\nWelcome to the Pattern Printer!\nHope you're having an awesome coding day!\n")
 
-    # If the user chose a pyramid..
-    if shape.lower() == 'pyramid':
-        print_pyramid(char, size)
-    # ..or if they chose a triangle.
-    elif shape.lower() == 'triangle':
-        print_triangle(char, size)
-    else:
-        print("Invalid shape, please enter 'pyramid' or 'triangle'.")
+    while True:
+        print("\nChoose the pattern you want to print:\n1. Pyramid\n2. Triangle\n3. Exit\n")
 
-# We'll make sure main() is only called when running this script directly, not when importing from another script.
-if __name__ == '__main__':
+        # Get user's choice
+        choice = int(input())
+
+        if choice == 1:
+            num = int(input("\nSweet! How tall should the pyramid be?\n"))
+            print_pyramid(num)
+
+        elif choice == 2:
+            num = int(input("\nAwesome! How tall should the triangle be?\n"))
+            print_triangle(num)
+            
+        elif choice == 3:
+            print("\nThank you for using Pattern Printer! Keep Coding, Stay Awesome!\n")
+            break
+
+        else:
+            print("\nWhoops! I didn't get that. Could you try again, please?\n")
+
+if __name__ == "__main__":
     main()
+
+# And that's it! We've created our own fun patterns. With a few keystrokes, 
+# you're now the artist and the canvas is your command line. Happy pattern printing! :)
+
