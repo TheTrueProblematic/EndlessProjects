@@ -1,4 +1,3 @@
-ValidPalindromeChecker,"Check if a string is a valid palindrome, ignoring spaces, punctuation, and case."
 DequeImplementation,Implement a basic deque (double-ended queue) data structure.
 WordFrequencyCounter,Count the frequency of each word in a text file.
 
