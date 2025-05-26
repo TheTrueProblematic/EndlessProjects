@@ -1,1 +1,499 @@
-
+AlarmClock,Set an alarm for a specific time and receive an alert when it triggers.
+ConnectFour,A two‑player Connect Four game playable in the terminal.
+MinesweeperCLI,Text‑based Minesweeper with adjustable grid size and mine count.
+BattleshipGame,Classic Battleship game against the computer on the command line.
+MemoryMatch,Card‑matching memory game using ASCII cards.
+MastermindGame,Play Mastermind code‑breaking game with colored pegs represented by letters.
+BullsAndCows,Number guessing game with bulls‑and‑cows feedback.
+WordleClone,Five‑letter word guessing game with color‑coded hints via letters.
+2048Game,Sliding‑tile 2048 puzzle playable in the terminal.
+SpeedConverter,"Convert between speed units such as km/h, mph, and m/s."
+PressureConverter,"Convert between pressure units like Pa, bar, psi, and atm."
+AngleConverter,"Convert between degrees, radians, and gradians."
+LengthConverter,"Convert between units like meters, feet, inches, and yards."
+WeightConverter,"Convert between units like kilograms, pounds, and ounces."
+EnergyConverter,"Convert between joules, calories, and kilowatt‑hours."
+PowerConverter,"Convert between watts, horsepower, and kilowatts."
+TimeZoneConverter,Convert a time from one time zone to another.
+RGBToHex,Convert RGB color values to hexadecimal color codes.
+HexToRGB,Convert hexadecimal color codes to RGB values.
+DecimalToBaseN,Convert a decimal number to another base between 2 and 36.
+BaseNToDecimal,Convert a number in any base (2‑36) to decimal.
+ASCIIToBinary,Convert ASCII text to binary representation.
+BinaryToASCII,Convert binary data into ASCII text.
+UnicodeCodePoint,Show Unicode code points for each character in a string.
+URLSlugGenerator,Generate URL‑friendly slugs from given text.
+CamelToSnake,Convert CamelCase identifiers to snake_case.
+SnakeToCamel,Convert snake_case identifiers to CamelCase.
+TitleCaseConverter,Convert a sentence to proper title case.
+SentenceShuffler,Randomly shuffle the order of sentences in a paragraph.
+CollatzSequence,Display the Collatz sequence starting from a given integer.
+PiApproximation,"Approximate the value of π using a series (e.g., Leibniz)."
+EApproximation,Approximate Euler’s number e using a series expansion.
+PrimeGapFinder,Find gaps between consecutive prime numbers up to N.
+MagicSquareChecker,Determine if a 3×3 grid is a magic square.
+PerfectSquareChecker,Check if a number is a perfect square without sqrt().
+RandomPrimeGenerator,Generate a random prime within a given range.
+GoldenRatioDigits,Calculate digits of the golden ratio to N places.
+FracSimplifier,Simplify a fraction to lowest terms.
+PascalTriangle,Print Pascal’s triangle up to N rows.
+CollatzCycleLength,Find the cycle length of Collatz sequences within a range.
+DecimalRepRepeater,Detect repeating sequences in decimal division outputs.
+FactorialDigits,Count the digits in N factorial.
+ModuloInverse,Compute modular multiplicative inverse with extended Euclidean algorithm.
+EgyptianFraction,Express a fraction as a sum of unique unit fractions.
+ContinuedFraction,Generate continued fraction of a rational number.
+QuadraticResidueChecker,Check if a number is a quadratic residue modulo N.
+TwinPrimeFinder,Find twin primes up to a given limit.
+KaprekarRoutine,Perform Kaprekar's routine on a 4‑digit number.
+HarshadNumberChecker,Check if a number is divisible by the sum of its digits.
+TriangleTypeChecker,"Identify whether three sides form a right, acute, or obtuse triangle."
+PolygonAngleSum,Calculate the sum of interior angles of an n‑sided polygon.
+Distance3DCalculator,Compute the distance between two points in 3‑D space.
+SlopeCalculator,Find the slope and intercept of a line given two points.
+LineIntersection,Determine the intersection point of two lines.
+PointRotation,Rotate a point around the origin by a given angle.
+CoordinateConverter,Convert Cartesian coordinates to polar and vice versa.
+VectorMagnitude,Calculate the magnitude of a vector in n‑dimensional space.
+VectorAddition,Add two vectors component‑wise.
+DotProductCalculator,Compute the dot product of two vectors.
+CrossProductCalculator,Compute the cross product of two 3‑D vectors.
+CircleAreaSector,Calculate the area of a circle sector given radius and angle.
+CylinderVolume,Calculate the volume of a cylinder given radius and height.
+ConeSurfaceArea,Find the surface area of a cone.
+RectangularPrismVolume,Calculate the volume of a rectangular prism.
+CentroidTriangle,Calculate the centroid of a triangle given coordinates.
+HeronCheck,Use Heron's formula to verify triangle area results.
+PythagoreanTripletGenerator,Generate Pythagorean triplets up to a limit.
+GreatCircleDistance,Compute distance between two lat/long points assuming spherical Earth.
+BearingCalculator,Calculate bearing angle between two geographic coordinates.
+DoublyLinkedList,Implement a basic doubly linked list with insertion and deletion.
+BinarySearchTree,Implement a binary search tree with traversal methods.
+AVLTree,Implement a self‑balancing AVL tree with rotations.
+RedBlackTree,Implement a red‑black tree with insert balancing.
+TrieImplementation,Implement a trie (prefix tree) for word storage and search.
+MinHeap,Implement a min‑heap with insert and extract‑min.
+MaxHeap,Implement a max‑heap with insert and extract‑max.
+DisjointSet,Implement a disjoint‑set (union‑find) data structure.
+GraphAdjacencyList,Represent a graph using an adjacency list and basic operations.
+CircularLinkedList,Implement a circular singly linked list.
+SkipList,Implement a skip list for fast search.
+BloomFilter,Implement a simple Bloom filter with hash functions.
+LRUCache,Implement an LRU cache using a linked hash map.
+PriorityQueueBinaryHeap,Priority queue based on binary heap implementation.
+FenwickTree,Implement a Fenwick tree (binary indexed tree) for prefix sums.
+SegmentTree,Implement a segment tree for range queries.
+SparseTable,Implement sparse table for range minimum queries.
+KDTree,Implement a simple 2‑D k‑d tree for nearest neighbor.
+GraphAdjacencyMatrix,Represent a graph with adjacency matrix and operations.
+IndexedPriorityQueue,Implement a priority queue that supports decrease‑key.
+DijkstraShortestPath,Compute shortest paths in a weighted graph using Dijkstra’s algorithm.
+AStarPathfinder,Implement A* pathfinding on a grid.
+BellmanFord,Compute shortest paths allowing negative weights using Bellman‑Ford.
+FloydWarshall,Compute all‑pairs shortest paths using Floyd‑Warshall algorithm.
+PrimMST,Find the minimum spanning tree of a graph using Prim’s algorithm.
+KruskalMST,Find MST of a graph using Kruskal’s algorithm with union‑find.
+TopologicalSort,Perform topological sorting of a directed acyclic graph.
+KosarajuSCC,Find strongly connected components using Kosaraju’s algorithm.
+TarjanSCC,Find strongly connected components using Tarjan’s algorithm.
+KMPStringSearch,Implement the Knuth‑Morris‑Pratt string search algorithm.
+RabinKarpSearch,Implement the Rabin‑Karp string search algorithm.
+HuffmanCoding,Build Huffman coding tree for text compression.
+BitonicSort,Implement the bitonic sort algorithm.
+CountingSort,Implement counting sort for integer arrays.
+RadixSort,Implement radix sort for non‑negative integers.
+BucketSort,Implement bucket sort for floating‑point numbers between 0 and 1.
+ShellSort,Implement shell sort with gap sequence.
+TimSortMini,Simplified Timsort combining insertion and merge sort.
+ZAlgorithm,Pattern matching using the Z‑algorithm.
+SuffixArrayBuilder,Build suffix array for a string using naive method.
+VigenereCipher,Encode and decode text using the Vigenère cipher.
+AtbashCipher,Implement the Atbash substitution cipher.
+PlayfairCipher,Encrypt and decrypt messages with the Playfair cipher.
+RailFenceCipher,Implement the Rail Fence cipher encoder and decoder.
+ColumnarTransposition,Encrypt text using columnar transposition cipher.
+SimpleXORCipher,Encrypt text with XOR and a single‑byte key.
+AffineCipher,Implement affine cipher encoder and decoder.
+Base64Encoder,Encode and decode text using Base64 (built‑in library).
+OneTimePadSimulator,Simulate a simple one‑time pad cipher with random key.
+FrequencyAnalysis,Analyze letter frequency of a ciphertext.
+DirectoryTreePrinter,Print a tree view of directories and files.
+FileSizeCalculator,Calculate total size of all files in a directory.
+DuplicateFileFinder,Find duplicate files based on content hashes.
+FileExtensionSorter,Sort files into folders based on extension.
+LogFileAnalyzer,Analyze a log file and summarize error counts by type.
+CSVMerger,Merge multiple CSV files with identical headers.
+CSVToJSON,Convert a CSV file to JSON format.
+JSONToCSV,Convert a JSON array into CSV format.
+TextFileReverser,Reverse the order of lines in a text file.
+FileBackupZipper,Zip specified files into a timestamped backup archive.
+DirectoryCleaner,Delete empty files and folders from a directory.
+FileTimestampChanger,Change modified time of files to a given timestamp.
+ImageResizerCLI,Batch resize images using PIL.
+SimpleTarExtractor,Extract files from a .tar archive.
+ChecksumVerifier,Generate and verify SHA‑256 checksums of files.
+FileDuplicateRemover,Remove duplicate lines in a text file.
+LineSorter,Sort lines in a text file alphabetically.
+HeadTailViewer,View the first or last N lines of a file.
+FileSplitter,Split a large file into smaller chunks.
+FileJoiner,Join multiple file chunks back into one file.
+CamelCaseSplitter,Split CamelCase strings into separate words.
+SentenceReplacer,Replace a sentence within a paragraph by index.
+TextJustifier,Fully justify text to a specified line width.
+LinesToParagraph,Combine lines into a wrapped paragraph format.
+CSVFormatter,Pretty print CSV data in aligned columns.
+MarkdownTableGenerator,Generate a markdown table from user input.
+HTMLStripper,Remove HTML tags from a string.
+BBCodeToHTML,Convert basic BBCode tags to HTML.
+RegexTester,Test a regex pattern against sample text.
+SpellCheckHighlighter,Highlight misspelled words using a dictionary.
+PunctuationRemover,Remove punctuation from a given text.
+WordLengthHistogram,Display histogram of word lengths in text.
+NgramFrequency,Compute frequency of n‑grams in a text file.
+SyllableCounter,Approximate syllable counts of English words.
+HaikuDetector,Detect if given text has haiku 5‑7‑5 syllable structure.
+SentenceSplitter,Split a paragraph into sentences using punctuation rules.
+TextEntropyCalculator,Calculate Shannon entropy of a text sample.
+KeywordHighlighter,Highlight specified keywords in a text file.
+UppercaseIndexFinder,List indices of uppercase letters in a string.
+ParagraphSummarizer,Summarize a paragraph by extracting key sentences.
+RandomNameGenerator,Generate random human‑like names from lists of syllables.
+RandomUsernameGenerator,Generate random usernames with adjectives and nouns.
+RandomHaikuGenerator,Create random haiku poems using word lists.
+RandomDungeonGenerator,Generate a random ASCII dungeon layout.
+RandomMazeGenerator,Generate a random maze with ASCII walls.
+RandomQuoteCLI,Display a random quote from a local text file.
+RandomPasswordDiceware,Generate a passphrase using diceware wordlist.
+RandomStoryGenerator,Generate a short random story using templates.
+RandomMusicPlaylist,Shuffle and print a random playlist from given songs.
+RandomExercisePicker,Pick a random exercise from a list.
+RandomLatinPhrase,Generate a random Latin motto from word lists.
+RandomArtASCII,Generate random ASCII art patterns.
+RandomGraph,Generate a random undirected graph with given vertices and edges.
+RandomBinaryString,Generate a random binary string of given length.
+RandomSubsetChooser,Choose random subset of given items.
+RandomTownName,Generate random fantasy town names.
+RandomColorName,Select random color names from a list.
+RandomEmojiString,Create random string of emojis of given length.
+RandomRecipe,Generate a random simple recipe from ingredients lists.
+RandomWorkoutRoutine,Create random workout routine with exercises and reps.
+GameOfLife,Simulate Conway’s Game of Life on a text grid.
+LangtonsAnt,Simulate Langton’s Ant on a grid.
+ForestFireSimulation,Simulate a simple forest fire cellular automaton.
+TrafficLightSimulator,Simulate traffic light cycles at an intersection.
+QueueingSimulation,Simulate a queue with arrivals and service times.
+EpidemicModel,Simulate spread of disease using SIR model.
+MonteCarloPi,Estimate π using Monte Carlo simulation within a circle.
+RandomWalk3D,Simulate a 3‑D random walk and report distance from origin.
+BrownianMotion1D,Simulate a 1‑D Brownian motion path.
+EcologyPredatorPrey,Simulate Lotka‑Volterra predator‑prey model.
+StandardDeviationCalc,Calculate the standard deviation of a dataset.
+VarianceCalc,Compute the variance of a dataset.
+CorrelationCalculator,Calculate Pearson correlation coefficient between two lists.
+LinearRegressionCLI,Perform simple linear regression and output slope and intercept.
+HistogramGenerator,Generate a text‑based histogram for numeric data.
+MedianAbsoluteDeviation,Calculate the MAD of a dataset.
+QuartileCalculator,Compute first and third quartiles of a dataset.
+BoxPlotStats,Compute statistics needed for a box‑plot.
+RandomSampling,Take random samples from a dataset without replacement.
+PermutationTest,Perform a simple permutation test for difference in means.
+HabitTracker,Track daily habits and visualize streaks.
+BudgetTracker,"Track expenses and income, summarizing totals by category."
+CaloriesTracker,Track daily calorie intake and output summary.
+SimpleJournal,Append daily journal entries to a file with timestamps.
+ReadingListCLI,Manage a reading list with status for each book.
+ContactBook,Maintain a contact book with search by name or phone.
+RecipeManager,"Store, search, and display simple text recipes."
+EventCountdown,Countdown to an event date and show days remaining.
+WaterIntakeLogger,Log liters of water consumed each day.
+GoalSetter,Set goals and track progress by percentage complete.
+SudokuSolver,Solve a given Sudoku puzzle using backtracking.
+SudokuGenerator,Generate a valid Sudoku puzzle at chosen difficulty.
+KenKenSolver,Solve a KenKen puzzle using constraint propagation.
+NonogramGenerator,Generate a nonogram (picross) puzzle grid.
+MinesweeperGenerator,Generate a Minesweeper grid with given mine density.
+CrosswordGenerator,Generate a simple crossword from word list.
+WordSearchGenerator,Generate a word search puzzle grid.
+KakuroSolver,Solve a Kakuro puzzle with backtracking.
+SlidingPuzzle15,Implement the classic 15‑puzzle sliding tiles game.
+LightsOutGame,Implement the Lights Out puzzle on a grid.
+TodoCSVSync,Sync command‑line to‑do items to a local CSV file.
+StopwatchLapTimer,Stopwatch with lap recording functionality.
+WeatherCLIParser,Parse a local text weather report and format nicely.
+ArgumentParserDemo,Demonstrate command‑line argument parsing for options.
+ClipboardManager,Copy and store snippets from stdin to clipboard.
+AsciiBarChart,Render numeric data as horizontal bar chart in ASCII.
+AsciiLineChart,Render a line chart of data in ASCII.
+RomanArithmetic,Perform arithmetic with Roman numerals.
+BinaryClock,Display current time as binary representation.
+CalendarEventAdder,Add events to a plain‑text calendar file.
+ProcessMonitor,Display running processes with CPU and memory usage.
+PortScanner,Scan open ports on a local network address.
+PingSweeper,Ping a range of IP addresses and report status.
+NetworkSpeedTest,Simple download/upload speed test using local sockets.
+DiskUsageAnalyzer,Analyze disk usage by folder size.
+SimpleHTTPServerLogger,Start a local HTTP server and log requests.
+FileLockChecker,Check if a file is locked by another process.
+UserSessionTimer,Measure time spent in the current shell session.
+EnvVarManager,"List, add, and remove environment variables temporarily."
+ClipboardHistory,Maintain clipboard history accessible via CLI.
+TicTacToeAI,Tic‑Tac‑Toe against a minimax AI player.
+ConnectFourAI,Connect Four game with computer AI using minimax.
+ReversiGame,Implement Othello/Reversi with simple AI.
+CheckersGame,Implement checkers with move validation.
+NimGame,Mathematical game of Nim with optimal AI.
+IsolationGame,Two‑player isolation board game.
+HexapawnAI,Implement Hexapawn with learning AI.
+GomokuGame,Implement Gomoku (five in a row) on CLI grid.
+DotsAndBoxes,Dots and Boxes game with simple AI.
+MancalaGame,Implement Mancala game rules and gameplay.
+SmithNumberChecker,Check if a number is a Smith number (composite whose digit sum equals sum of digits of prime factors).
+AbundantNumberChecker,Check if a number is abundant (sum of proper divisors > number).
+DeficientNumberChecker,Check if a number is deficient (sum of proper divisors < number).
+FriendlyPairChecker,Check if two numbers form an amicable pair.
+SophieGermainPrimeChecker,Check if a number is a Sophie Germain prime.
+CatalanNumberGenerator,Generate Catalan numbers up to N.
+BellNumberGenerator,Generate Bell numbers up to N.
+PerrinSequence,Generate the Perrin sequence up to N terms.
+LucasSequence,Generate Lucas numbers up to N terms.
+HappyPrimeChecker,Check if a number is both happy and prime.
+RepunitChecker,Check if a number is a repunit in decimal.
+TriangularNumberChecker,Check if a number is triangular.
+PentagonalNumberChecker,Check if a number is pentagonal.
+HexagonalNumberChecker,Check if a number is hexagonal.
+HeptagonalNumberChecker,Check if a number is heptagonal.
+CenteredHexagonalNumberChecker,Check if a number is centered hexagonal.
+DigitalRootCalculator,Compute the digital root of a number.
+PalindromePrimeChecker,Check if a prime number is also palindromic.
+WeirdNumberChecker,Check if a number is weird (abundant but not semiperfect).
+SuperPerfectNumberChecker,Check if a number is super‑perfect (sum of divisors of sum of divisors equals 2*n).
+KnightTour,Find a knight’s tour on an N×N chessboard.
+ChessFENValidator,Validate a FEN chess position string.
+PGNMoveCounter,Count moves in a chess PGN file.
+SimpleChessClock,A dual countdown chess clock.
+QueenAttackChecker,Determine if two queens attack each other on a chessboard.
+EightQueensSolver,Solve the eight queens puzzle using backtracking.
+AlgebraicToCoord,Convert chess algebraic notation to coordinates.
+BoardRenderer,Render a chessboard from FEN in ASCII.
+MiniChessEngine,Simple minimax chess engine for King and Pawn endings.
+CheckmateDetector,Detect if a given FEN is checkmate.
+DeckShuffler,Simulate shuffling a standard deck of cards.
+PokerHandEvaluator,Evaluate ranking of a five‑card poker hand.
+BlackjackGame,Play a simple Blackjack game against the dealer.
+WarCardGame,Simulate the card game War between two players.
+SolitaireCLI,Text‑based Klondike Solitaire setup and moves.
+CardGuessingGame,Guess the drawn card from the deck with hints.
+DeckProbabilityCalculator,Calculate probability of drawing specific cards.
+CardCountingTrainer,Practice counting cards in Blackjack.
+MemoryCardGame,Remember sequence of flipped cards.
+GoFishGame,Implement Go Fish card game against computer.
+VolumeConverter,"Convert between liters, milliliters, gallons, and cups."
+DensityConverter,"Convert between kg/m³, g/cm³, and lb/ft³."
+FrequencyConverter,"Convert between hertz, kilohertz, megahertz, and gigahertz."
+DataSizeConverter,"Convert between bytes, kilobytes, megabytes, and gigabytes."
+TorqueConverter,"Convert between newton‑meters, foot‑pounds, and inch‑pounds."
+PressureToHead,Convert pressure to head (height) of fluid column.
+CurrencyFormatter,Format numbers as currency strings in different locales.
+LightYearConverter,"Convert light‑years to kilometers, miles, and AU."
+AngleToClockBearing,Convert compass bearing to clock bearing.
+FuelEfficiencyConverter,Convert between L/100km and MPG.
+SoundLevelConverter,Convert between decibels of different references.
+LuxToFootCandle,Convert illumination units between lux and foot‑candles.
+FlowRateConverter,"Convert between L/min, m³/s, and GPM."
+AccelerationUnitConverter,Convert between m/s² and g‑forces.
+TemperatureToDelisle,Convert Celsius to Delisle scale and back.
+CelsiusToNewton,Convert Celsius to Newton temperature scale.
+TimeUnitConverter,"Convert between seconds, minutes, hours, and days."
+AngleUnitConverter,Convert between DMS (degrees minutes seconds) and decimal degrees.
+HorsepowerToWatts,Convert horsepower to watts and kilowatts.
+WavelengthToFrequency,Convert light wavelength to frequency and energy.
+OhmsLawCalculator,"Calculate voltage, current, or resistance using Ohm’s Law."
+KineticEnergyCalculator,Compute kinetic energy given mass and velocity.
+PotentialEnergyCalculator,Compute gravitational potential energy given mass and height.
+ProjectileMotionSolver,Solve flight time and range for projectile motion.
+IdealGasLaw,"Compute pressure, volume, or temperature using PV=nRT."
+LensEquationSolver,Solve lens equation 1/f = 1/d₀ + 1/dᵢ.
+SeriesResistorCalculator,Calculate equivalent resistance of resistors in series.
+ParallelResistorCalculator,Calculate equivalent resistance of resistors in parallel.
+OrbitalPeriodCalculator,Compute orbital period using Kepler’s Third Law.
+DopplerShiftCalculator,Calculate frequency shift due to Doppler effect.
+EscapeVelocityCalculator,Compute escape velocity from a planet’s surface.
+CapacitanceEnergyCalculator,Compute energy stored in a capacitor.
+RCDecaySimulator,Simulate voltage decay in an RC circuit over time.
+SpringOscillation,Calculate period of mass‑spring oscillator.
+IdealTransformerCalculator,"Calculate turns ratio, voltage, or current for a transformer."
+SimplePendulumPeriod,Compute period of a simple pendulum given length.
+HeatIndexCalculator,Compute heat index from temperature and humidity.
+WindChillCalculator,Compute wind chill from temperature and wind speed.
+ReynoldsNumberCalculator,Calculate Reynolds number for fluid flow.
+TerminalVelocityCalculator,Estimate terminal velocity of an object in air.
+MatrixDeterminant,Calculate determinant of a square matrix.
+MatrixInverse,Compute inverse of a matrix using Gauss‑Jordan.
+PolynomialEvaluator,Evaluate a polynomial at given x.
+PolynomialDerivative,Compute derivative of a polynomial.
+PolynomialIntegral,Compute indefinite integral of a polynomial.
+BezierCurvePoints,Generate points on a quadratic Bezier curve.
+BarycentricCoordinates,Compute barycentric coordinates of a point in triangle.
+LagrangeInterpolation,Perform Lagrange polynomial interpolation on points.
+NewtonForwardDifferences,Interpolate values using Newton forward differences.
+CorrelationMatrix,Generate correlation matrix for multivariate data.
+GaussianElimination,Solve linear system using Gaussian elimination.
+LUDecomposition,Perform LU decomposition of a matrix.
+PrimeNumberTester,Deterministic Miller‑Rabin test for small numbers.
+ContinuedFractionSolver,Convert fraction to continued fraction and back.
+ChineseRemainderSolver,Solve system of congruences using Chinese Remainder Theorem.
+SieveWheelFactorization,Implement wheel factorization for primes.
+PascalMatrixGenerator,Generate a Pascal matrix of order n.
+FibonacciModulo,Compute Fibonacci numbers modulo m efficiently.
+CatalanModulo,Compute Catalan numbers modulo m.
+StirlingNumbers,Compute Stirling numbers of the second kind.
+PigLatinReverse,Convert Pig Latin text back to English.
+ROT47Cipher,Implement ROT47 cipher for ASCII characters.
+LeetSpeakConverter,Convert English text to leetspeak.
+DNAComplement,Generate complementary DNA strand sequence.
+RNAtoDNA,Convert RNA sequence to DNA.
+GCContentCalculator,Calculate GC content in a DNA sequence.
+HammingWeight,Count number of 1 bits in binary representation.
+URLDecoder,Decode percent‑encoded URL strings.
+URLEncoder,Encode text into percent‑encoded URL format.
+SoundexEncoder,Encode surnames with the Soundex algorithm.
+MetaphoneEncoder,Implement simple Metaphone phonetic algorithm.
+RunLengthEncoding,Compress text using run‑length encoding.
+RunLengthDecoding,Decode run‑length encoded text.
+SubstitutionCipher,Implement generic monoalphabetic substitution cipher.
+TextObfuscator,Obfuscate text by swapping adjacent letters randomly.
+PalindromeSentenceFinder,Find palindromic sentences within a text.
+DuplicateWordRemover,Remove duplicate words while preserving order.
+SubstringCounter,Count overlapping occurrences of a substring in text.
+WordBoundaryTokenizer,Tokenize text into words using regex word boundaries.
+HTMLEntityEncoder,Convert special characters to HTML entities.
+UnixTimestampGenerator,Generate Unix timestamp for given date and time.
+UnixTimestampParser,Parse Unix timestamp back to human date.
+NextDayCalculator,Calculate the date of the next day.
+BusinessDayAdder,Add N business days to a date.
+CalendarWeekNumber,Calculate ISO week number of a date.
+DaylightSavingChecker,Check if a date falls in daylight saving time.
+SecondsToHMS,Convert seconds to hours:minutes:seconds string.
+HmsToSeconds,Convert hours:minutes:seconds string to total seconds.
+CountdownSeconds,Countdown a number of seconds printing each second.
+AgeOnPlanetCalculator,Calculate equivalent age on other planets based on orbital period.
+MeetingScheduler,Find overlapping free time slots between two date ranges.
+DateFormatConverter,Convert date string between various formats.
+DateRangeGenerator,Generate list of dates between two given dates.
+MonthlyCalendarPrinter,Print a monthly calendar with weekday labels.
+WeekdayCounter,Count number of each weekday in a given date range.
+ZodiacSignFinder,Find Western zodiac sign for a birthdate.
+ChineseZodiacFinder,Find Chinese zodiac animal for a birth year.
+MoonAgeCalculator,Calculate moon age (day of lunar cycle) for a date.
+JulianDateConverter,Convert Gregorian date to Julian date number.
+StopwatchWithSplits,Stopwatch that records split times.
+HangmanAI,Hangman game where computer guesses the word.
+RPSLS,Rock‑Paper‑Scissors‑Lizard‑Spock variant.
+DicePoker,Yahtzee‑style dice poker simulation.
+TowersOfHanoi,Solve Towers of Hanoi and display moves.
+PegSolitaire,Implement Peg Solitaire board game.
+TextAdventureEngine,Engine to create simple text adventures via JSON input.
+ZombieDice,Simulate the Zombie Dice push‑your‑luck game.
+SnakeGameASCII,ASCII snake game playable in terminal.
+PongCLI,Pong game rendered with ASCII characters.
+BreakoutCLI,Breakout game using ASCII bricks and paddle.
+CrapsSimulator,Simulate the casino dice game Craps.
+RouletteSimulator,Simulate roulette spins and payouts.
+LiarDice,Implement Liar’s Dice game logic.
+ConnectFive,Gomoku variant as two player game.
+MorpionSolitaire,Implement Morpion Solitaire grid game.
+DotsAndBoxesAI,Dots and Boxes with AI opponent.
+UltimateTicTacToe,Ultimate Tic‑Tac‑Toe 3×3 boards.
+CheckersAI,Checkers with basic minimax AI opponent.
+BattleshipAI,Battleship with computer AI placement and strategy.
+WordChainGame,Build word chain where each word starts with last letter.
+EmailExtractor,Extract email addresses from a text file.
+URLExtractor,Extract URLs from a text file.
+PhoneNumberFormatter,Format phone numbers to a standard form.
+HTMLLinkExtractor,Extract links and anchor text from HTML file.
+MarkdownLinkChecker,Check if links in markdown files are reachable.
+LogTimestampParser,Parse timestamps from log lines and convert to datetime.
+KeywordDensityAnalyzer,Calculate keyword density in a text.
+IPRangeParser,Parse CIDR notation into start and end IP addresses.
+CSVHeaderValidator,Validate that CSV headers follow naming rules.
+SQLPrettyPrinter,Pretty‑print a SQL query string with indentation.
+Base32Encoder,Encode and decode text using Base32.
+Base85Encoder,Encode and decode text using Base85.
+URLSafeBase64,Encode/decode URL‑safe Base64.
+HexDump,Create a hex dump view of binary file.
+UUEncodeDecoder,Encode and decode data with uuencode.
+BinaryToGray,Convert binary numbers to Gray code and back.
+Ascii85Encoder,Encode and decode text using Ascii85.
+Crc32Calculator,Calculate CRC‑32 checksum of a file.
+ParityBitGenerator,Generate parity bits for a binary message.
+HammingCodeEncoder,"Encode binary data with Hamming (7,4) code and detect errors."
+ColorGradientGenerator,Generate a gradient of colors between two hex values.
+ComplementaryColorFinder,Find complementary color of a given hex code.
+ColorContrastChecker,Check WCAG contrast ratio between two colors.
+RGBToHSL,Convert RGB color values to HSL model.
+HSLToRGB,Convert HSL color values to RGB.
+RandomPaletteGenerator,Generate random color palette of N colors.
+TerminalColorDemo,Display all 256 terminal colors in a grid.
+ImageDominantColor,Find dominant color of an image file.
+ANSIColorStripper,Remove ANSI color codes from text.
+HexColorValidator,Validate a hexadecimal color string.
+StarFieldAnimation,Display animated star field in terminal.
+WaveAnimation,Show moving ASCII sine wave animation.
+AsciiClockAnalog,Display analog clock using ASCII characters.
+AsciiFireplace,Simulate fireplace flames with ASCII characters.
+AsciiRain,Matrix‑style falling characters animation.
+AsciiMazeRunner,Animate solving of a maze in ASCII.
+AsciiSnowfall,Snow falling animation in terminal.
+AsciiProgressSpinner,Customizable progress spinner animation.
+AsciiGradient,Render grayscale gradient in ASCII.
+AsciiQRCodeGenerator,Generate QR codes in ASCII using built‑in libraries.
+ToneGenerator,Generate a sine wave tone and save to a WAV file.
+MorseCodeAudio,Convert text to Morse code audio WAV.
+MetronomeCLI,Play metronome ticks at specified BPM.
+AudioReverse,Reverse audio samples in a WAV file.
+AudioVolumeNormalizer,Normalize volume of a WAV file.
+WaveformASCII,Display waveform of WAV file in ASCII.
+DTMFGenerator,Generate DTMF dial tones for phone numbers.
+NoiseGenerator,Generate white noise WAV file of given duration.
+AudioDurationChecker,Check duration of WAV or MP3 file using standard libs.
+FrequencySweepGenerator,Generate frequency sweep audio file.
+CSVColumnStats,Compute basic stats for numeric columns in a CSV.
+CSVHeaderRenamer,Rename columns in a CSV based on mapping input.
+CSVRowFilter,Filter rows in CSV based on conditional expression.
+CSVTranspose,Transpose rows and columns of a CSV file.
+CSVSort,Sort CSV rows by specified column.
+CSVUniqueRows,Remove duplicate rows in a CSV file.
+CSVColumnMerger,Merge multiple columns into one combined column.
+CSVSplitter,Split a large CSV into multiple smaller files by row count.
+CSVToHTMLTable,Convert CSV data to an HTML table element.
+CSVColumnReorder,Reorder columns in a CSV file based on given order.
+NumberBaseball,Play number baseball (Mastermind with digits).
+HexGame,Create a text‑based Hex board game.
+QuartoGame,Implement the abstract strategy game Quarto.
+DotsGame,Connect the Dots adaptation with scoring.
+SproutsGame,Play Sprouts pencil‑and‑paper game via CLI.
+SumTo100,Turn‑based game adding numbers to reach 100.
+LastCoinGame,Take coins from pile trying not to take last coin.
+PigDiceGame,Classic dice game Pig for two players.
+SevensGame,Card game Sevens (Parliament) playable in text mode.
+SkunkDiceGame,Push‑your‑luck dice game Skunk simulation.
+PrimeSpiral,Draw Ulam spiral of prime numbers in ASCII.
+TemperatureTrendASCII,Plot temperature trend as ASCII sparkline.
+RandomQuoteServer,Serve random quotes via local socket to telnet clients.
+JsonDiff,Show differences between two JSON files.
+YamlToJson,Convert YAML file to JSON.
+PalettesToSVG,Generate SVG color palette squares.
+SimpleHTTPFileServer,Serve files over HTTP with directory listing.
+BaseConversionTable,Print table converting numbers from 1‑100 to binary/hex/oct.
+KeywordCipher,Encrypt text using the Keyword cipher.
+BrainfuckInterpreter,Implement Brainfuck language interpreter.
+PietImageGenerator,Generate simple Piet language images from code.
+LSystemGenerator,Generate L‑system strings and render turtle commands with ASCII.
+RomanClock,Display current time in Roman numerals.
+PolybiusSquareCipher,Encode/decode text using Polybius square.
+LottoNumberGenerator,Generate random lottery numbers with no repeats.
+SimpleStopwatchAlarm,Stopwatch that triggers an alert at set interval.
+AsciiCalendarYear,Display full year calendar in ASCII.
+RandomPoemGenerator,Generate random poems from word lists.
+TextAdventureParser,Parse a simple interactive fiction script.
+PermutationGenerator,Generate all permutations of numbers 1..N without recursion.
