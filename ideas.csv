@@ -1,4 +1,3 @@
-BaseNToDecimal,Convert a number in any base (2‑36) to decimal.
 ASCIIToBinary,Convert ASCII text to binary representation.
 BinaryToASCII,Convert binary data into ASCII text.
 UnicodeCodePoint,Show Unicode code points for each character in a string.
