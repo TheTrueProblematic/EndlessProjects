@@ -1,4 +1,3 @@
-UnicodeCodePoint,Show Unicode code points for each character in a string.
 URLSlugGenerator,Generate URL‑friendly slugs from given text.
 CamelToSnake,Convert CamelCase identifiers to snake_case.
 SnakeToCamel,Convert snake_case identifiers to CamelCase.
