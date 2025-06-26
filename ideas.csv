@@ -1,4 +1,3 @@
-PiApproximation,"Approximate the value of π using a series (e.g., Leibniz)."
 EApproximation,Approximate Euler’s number e using a series expansion.
 PrimeGapFinder,Find gaps between consecutive prime numbers up to N.
 MagicSquareChecker,Determine if a 3×3 grid is a magic square.
