@@ -1,4 +1,3 @@
-PrimeGapFinder,Find gaps between consecutive prime numbers up to N.
 MagicSquareChecker,Determine if a 3×3 grid is a magic square.
 PerfectSquareChecker,Check if a number is a perfect square without sqrt().
 RandomPrimeGenerator,Generate a random prime within a given range.
