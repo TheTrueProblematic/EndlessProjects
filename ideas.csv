@@ -1,4 +1,3 @@
-PerfectSquareChecker,Check if a number is a perfect square without sqrt().
 RandomPrimeGenerator,Generate a random prime within a given range.
 GoldenRatioDigits,Calculate digits of the golden ratio to N places.
 FracSimplifier,Simplify a fraction to lowest terms.
