@@ -1,4 +1,3 @@
-PascalTriangle,Print Pascal’s triangle up to N rows.
 CollatzCycleLength,Find the cycle length of Collatz sequences within a range.
 DecimalRepRepeater,Detect repeating sequences in decimal division outputs.
 FactorialDigits,Count the digits in N factorial.
