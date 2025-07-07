@@ -1,4 +1,3 @@
-CollatzCycleLength,Find the cycle length of Collatz sequences within a range.
 DecimalRepRepeater,Detect repeating sequences in decimal division outputs.
 FactorialDigits,Count the digits in N factorial.
 ModuloInverse,Compute modular multiplicative inverse with extended Euclidean algorithm.
