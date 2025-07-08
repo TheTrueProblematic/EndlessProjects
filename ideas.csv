@@ -1,4 +1,3 @@
-FactorialDigits,Count the digits in N factorial.
 ModuloInverse,Compute modular multiplicative inverse with extended Euclidean algorithm.
 EgyptianFraction,Express a fraction as a sum of unique unit fractions.
 ContinuedFraction,Generate continued fraction of a rational number.
