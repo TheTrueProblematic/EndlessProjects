@@ -1,4 +1,3 @@
-HarshadNumberChecker,Check if a number is divisible by the sum of its digits.
 TriangleTypeChecker,"Identify whether three sides form a right, acute, or obtuse triangle."
 PolygonAngleSum,Calculate the sum of interior angles of an n‑sided polygon.
 Distance3DCalculator,Compute the distance between two points in 3‑D space.
