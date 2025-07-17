@@ -1,4 +1,3 @@
-Distance3DCalculator,Compute the distance between two points in 3‑D space.
 SlopeCalculator,Find the slope and intercept of a line given two points.
 LineIntersection,Determine the intersection point of two lines.
 PointRotation,Rotate a point around the origin by a given angle.
