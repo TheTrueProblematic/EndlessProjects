@@ -1,4 +1,3 @@
-SlopeCalculator,Find the slope and intercept of a line given two points.
 LineIntersection,Determine the intersection point of two lines.
 PointRotation,Rotate a point around the origin by a given angle.
 CoordinateConverter,Convert Cartesian coordinates to polar and vice versa.
