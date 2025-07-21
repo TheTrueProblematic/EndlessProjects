@@ -1,4 +1,3 @@
-CoordinateConverter,Convert Cartesian coordinates to polar and vice versa.
 VectorMagnitude,Calculate the magnitude of a vector in n‑dimensional space.
 VectorAddition,Add two vectors component‑wise.
 DotProductCalculator,Compute the dot product of two vectors.
