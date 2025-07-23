@@ -1,4 +1,3 @@
-VectorAddition,Add two vectors component‑wise.
 DotProductCalculator,Compute the dot product of two vectors.
 CrossProductCalculator,Compute the cross product of two 3‑D vectors.
 CircleAreaSector,Calculate the area of a circle sector given radius and angle.
