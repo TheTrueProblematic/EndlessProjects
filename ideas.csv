@@ -1,4 +1,3 @@
-PythagoreanTripletGenerator,Generate Pythagorean triplets up to a limit.
 GreatCircleDistance,Compute distance between two lat/long points assuming spherical Earth.
 BearingCalculator,Calculate bearing angle between two geographic coordinates.
 DoublyLinkedList,Implement a basic doubly linked list with insertion and deletion.
