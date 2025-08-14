@@ -1,4 +1,3 @@
-CircularLinkedList,Implement a circular singly linked list.
 SkipList,Implement a skip list for fast search.
 BloomFilter,Implement a simple Bloom filter with hash functions.
 LRUCache,Implement an LRU cache using a linked hash map.
