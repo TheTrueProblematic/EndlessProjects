@@ -1,4 +1,3 @@
-LRUCache,Implement an LRU cache using a linked hash map.
 PriorityQueueBinaryHeap,Priority queue based on binary heap implementation.
 FenwickTree,Implement a Fenwick tree (binary indexed tree) for prefix sums.
 SegmentTree,Implement a segment tree for range queries.
