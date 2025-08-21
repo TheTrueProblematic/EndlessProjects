@@ -1,4 +1,3 @@
-SparseTable,Implement sparse table for range minimum queries.
 KDTree,Implement a simple 2‑D k‑d tree for nearest neighbor.
 GraphAdjacencyMatrix,Represent a graph with adjacency matrix and operations.
 IndexedPriorityQueue,Implement a priority queue that supports decrease‑key.
