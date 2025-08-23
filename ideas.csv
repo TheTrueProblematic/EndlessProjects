@@ -1,4 +1,3 @@
-DijkstraShortestPath,Compute shortest paths in a weighted graph using Dijkstra’s algorithm.
 AStarPathfinder,Implement A* pathfinding on a grid.
 BellmanFord,Compute shortest paths allowing negative weights using Bellman‑Ford.
 FloydWarshall,Compute all‑pairs shortest paths using Floyd‑Warshall algorithm.
