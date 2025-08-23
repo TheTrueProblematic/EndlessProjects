@@ -1,4 +1,3 @@
-IndexedPriorityQueue,Implement a priority queue that supports decrease‑key.
 DijkstraShortestPath,Compute shortest paths in a weighted graph using Dijkstra’s algorithm.
 AStarPathfinder,Implement A* pathfinding on a grid.
 BellmanFord,Compute shortest paths allowing negative weights using Bellman‑Ford.
