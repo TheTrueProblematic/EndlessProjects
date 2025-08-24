@@ -1,4 +1,3 @@
-AStarPathfinder,Implement A* pathfinding on a grid.
 BellmanFord,Compute shortest paths allowing negative weights using Bellman‑Ford.
 FloydWarshall,Compute all‑pairs shortest paths using Floyd‑Warshall algorithm.
 PrimMST,Find the minimum spanning tree of a graph using Prim’s algorithm.
