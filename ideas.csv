@@ -1,4 +1,3 @@
-KMPStringSearch,Implement the Knuth‑Morris‑Pratt string search algorithm.
 RabinKarpSearch,Implement the Rabin‑Karp string search algorithm.
 HuffmanCoding,Build Huffman coding tree for text compression.
 BitonicSort,Implement the bitonic sort algorithm.
