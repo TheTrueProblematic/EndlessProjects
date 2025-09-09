@@ -1,4 +1,3 @@
-TimSortMini,Simplified Timsort combining insertion and merge sort.
 ZAlgorithm,Pattern matching using the Z‑algorithm.
 SuffixArrayBuilder,Build suffix array for a string using naive method.
 VigenereCipher,Encode and decode text using the Vigenère cipher.
