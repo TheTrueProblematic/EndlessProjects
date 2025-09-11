@@ -1,4 +1,3 @@
-SuffixArrayBuilder,Build suffix array for a string using naive method.
 VigenereCipher,Encode and decode text using the Vigenère cipher.
 AtbashCipher,Implement the Atbash substitution cipher.
 PlayfairCipher,Encrypt and decrypt messages with the Playfair cipher.
