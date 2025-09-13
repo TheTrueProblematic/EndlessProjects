@@ -1,4 +1,3 @@
-PlayfairCipher,Encrypt and decrypt messages with the Playfair cipher.
 RailFenceCipher,Implement the Rail Fence cipher encoder and decoder.
 ColumnarTransposition,Encrypt text using columnar transposition cipher.
 SimpleXORCipher,Encrypt text with XOR and a single‑byte key.
