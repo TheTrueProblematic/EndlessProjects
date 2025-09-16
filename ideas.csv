@@ -1,4 +1,3 @@
-SimpleXORCipher,Encrypt text with XOR and a single‑byte key.
 AffineCipher,Implement affine cipher encoder and decoder.
 Base64Encoder,Encode and decode text using Base64 (built‑in library).
 OneTimePadSimulator,Simulate a simple one‑time pad cipher with random key.
