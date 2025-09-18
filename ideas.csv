@@ -1,4 +1,3 @@
-Base64Encoder,Encode and decode text using Base64 (built‑in library).
 OneTimePadSimulator,Simulate a simple one‑time pad cipher with random key.
 FrequencyAnalysis,Analyze letter frequency of a ciphertext.
 DirectoryTreePrinter,Print a tree view of directories and files.
