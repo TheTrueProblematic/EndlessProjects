@@ -1,4 +1,3 @@
-FrequencyAnalysis,Analyze letter frequency of a ciphertext.
 DirectoryTreePrinter,Print a tree view of directories and files.
 FileSizeCalculator,Calculate total size of all files in a directory.
 DuplicateFileFinder,Find duplicate files based on content hashes.
