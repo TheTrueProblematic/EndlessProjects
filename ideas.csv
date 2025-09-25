@@ -1,4 +1,3 @@
-CSVMerger,Merge multiple CSV files with identical headers.
 CSVToJSON,Convert a CSV file to JSON format.
 JSONToCSV,Convert a JSON array into CSV format.
 TextFileReverser,Reverse the order of lines in a text file.
