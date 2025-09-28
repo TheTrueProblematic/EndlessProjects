@@ -1,4 +1,3 @@
-JSONToCSV,Convert a JSON array into CSV format.
 TextFileReverser,Reverse the order of lines in a text file.
 FileBackupZipper,Zip specified files into a timestamped backup archive.
 DirectoryCleaner,Delete empty files and folders from a directory.
