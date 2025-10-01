@@ -1,4 +1,3 @@
-DirectoryCleaner,Delete empty files and folders from a directory.
 FileTimestampChanger,Change modified time of files to a given timestamp.
 ImageResizerCLI,Batch resize images using PIL.
 SimpleTarExtractor,Extract files from a .tar archive.
