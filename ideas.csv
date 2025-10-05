@@ -1,4 +1,3 @@
-FileDuplicateRemover,Remove duplicate lines in a text file.
 LineSorter,Sort lines in a text file alphabetically.
 HeadTailViewer,View the first or last N lines of a file.
 FileSplitter,Split a large file into smaller chunks.
