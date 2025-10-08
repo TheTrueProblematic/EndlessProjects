@@ -1,4 +1,3 @@
-HeadTailViewer,View the first or last N lines of a file.
 FileSplitter,Split a large file into smaller chunks.
 FileJoiner,Join multiple file chunks back into one file.
 CamelCaseSplitter,Split CamelCase strings into separate words.
