@@ -1,4 +1,3 @@
-FileJoiner,Join multiple file chunks back into one file.
 CamelCaseSplitter,Split CamelCase strings into separate words.
 SentenceReplacer,Replace a sentence within a paragraph by index.
 TextJustifier,Fully justify text to a specified line width.
