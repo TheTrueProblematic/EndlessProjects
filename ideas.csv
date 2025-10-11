@@ -1,4 +1,3 @@
-CamelCaseSplitter,Split CamelCase strings into separate words.
 SentenceReplacer,Replace a sentence within a paragraph by index.
 TextJustifier,Fully justify text to a specified line width.
 LinesToParagraph,Combine lines into a wrapped paragraph format.
