@@ -1,4 +1,3 @@
-CSVFormatter,Pretty print CSV data in aligned columns.
 MarkdownTableGenerator,Generate a markdown table from user input.
 HTMLStripper,Remove HTML tags from a string.
 BBCodeToHTML,Convert basic BBCode tags to HTML.
