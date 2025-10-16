@@ -1,4 +1,3 @@
-MarkdownTableGenerator,Generate a markdown table from user input.
 HTMLStripper,Remove HTML tags from a string.
 BBCodeToHTML,Convert basic BBCode tags to HTML.
 RegexTester,Test a regex pattern against sample text.
