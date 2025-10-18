@@ -1,4 +1,3 @@
-RegexTester,Test a regex pattern against sample text.
 SpellCheckHighlighter,Highlight misspelled words using a dictionary.
 PunctuationRemover,Remove punctuation from a given text.
 WordLengthHistogram,Display histogram of word lengths in text.
