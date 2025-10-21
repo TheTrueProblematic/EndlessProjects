@@ -1,4 +1,3 @@
-WordLengthHistogram,Display histogram of word lengths in text.
 NgramFrequency,Compute frequency of n‑grams in a text file.
 SyllableCounter,Approximate syllable counts of English words.
 HaikuDetector,Detect if given text has haiku 5‑7‑5 syllable structure.
