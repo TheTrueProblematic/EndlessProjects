@@ -1,4 +1,3 @@
-SentenceSplitter,Split a paragraph into sentences using punctuation rules.
 TextEntropyCalculator,Calculate Shannon entropy of a text sample.
 KeywordHighlighter,Highlight specified keywords in a text file.
 UppercaseIndexFinder,List indices of uppercase letters in a string.
