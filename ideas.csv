@@ -1,4 +1,3 @@
-RandomHaikuGenerator,Create random haiku poems using word lists.
 RandomDungeonGenerator,Generate a random ASCII dungeon layout.
 RandomMazeGenerator,Generate a random maze with ASCII walls.
 RandomQuoteCLI,Display a random quote from a local text file.
