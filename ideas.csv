@@ -1,4 +1,3 @@
-RandomDungeonGenerator,Generate a random ASCII dungeon layout.
 RandomMazeGenerator,Generate a random maze with ASCII walls.
 RandomQuoteCLI,Display a random quote from a local text file.
 RandomPasswordDiceware,Generate a passphrase using diceware wordlist.
