@@ -1,4 +1,3 @@
-TrafficLightSimulator,Simulate traffic light cycles at an intersection.
 QueueingSimulation,Simulate a queue with arrivals and service times.
 EpidemicModel,Simulate spread of disease using SIR model.
 MonteCarloPi,Estimate π using Monte Carlo simulation within a circle.
