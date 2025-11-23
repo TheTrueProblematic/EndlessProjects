@@ -1,4 +1,3 @@
-QueueingSimulation,Simulate a queue with arrivals and service times.
 EpidemicModel,Simulate spread of disease using SIR model.
 MonteCarloPi,Estimate π using Monte Carlo simulation within a circle.
 RandomWalk3D,Simulate a 3‑D random walk and report distance from origin.
