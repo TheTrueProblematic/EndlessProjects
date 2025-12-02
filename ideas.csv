@@ -1,4 +1,3 @@
-CorrelationCalculator,Calculate Pearson correlation coefficient between two lists.
 LinearRegressionCLI,Perform simple linear regression and output slope and intercept.
 HistogramGenerator,Generate a text‑based histogram for numeric data.
 MedianAbsoluteDeviation,Calculate the MAD of a dataset.
