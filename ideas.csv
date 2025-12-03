@@ -1,4 +1,3 @@
-LinearRegressionCLI,Perform simple linear regression and output slope and intercept.
 HistogramGenerator,Generate a text‑based histogram for numeric data.
 MedianAbsoluteDeviation,Calculate the MAD of a dataset.
 QuartileCalculator,Compute first and third quartiles of a dataset.
