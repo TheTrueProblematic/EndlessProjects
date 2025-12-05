@@ -1,4 +1,3 @@
-MedianAbsoluteDeviation,Calculate the MAD of a dataset.
 QuartileCalculator,Compute first and third quartiles of a dataset.
 BoxPlotStats,Compute statistics needed for a box‑plot.
 RandomSampling,Take random samples from a dataset without replacement.
