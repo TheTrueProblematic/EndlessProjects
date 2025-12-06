@@ -1,4 +1,3 @@
-BoxPlotStats,Compute statistics needed for a box‑plot.
 RandomSampling,Take random samples from a dataset without replacement.
 PermutationTest,Perform a simple permutation test for difference in means.
 HabitTracker,Track daily habits and visualize streaks.
