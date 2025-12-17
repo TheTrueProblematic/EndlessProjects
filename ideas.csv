@@ -1,4 +1,3 @@
-WaterIntakeLogger,Log liters of water consumed each day.
 GoalSetter,Set goals and track progress by percentage complete.
 SudokuSolver,Solve a given Sudoku puzzle using backtracking.
 SudokuGenerator,Generate a valid Sudoku puzzle at chosen difficulty.
