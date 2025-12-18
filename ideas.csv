@@ -1,4 +1,3 @@
-SudokuSolver,Solve a given Sudoku puzzle using backtracking.
 SudokuGenerator,Generate a valid Sudoku puzzle at chosen difficulty.
 KenKenSolver,Solve a KenKen puzzle using constraint propagation.
 NonogramGenerator,Generate a nonogram (picross) puzzle grid.
