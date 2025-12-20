@@ -1,4 +1,3 @@
-NonogramGenerator,Generate a nonogram (picross) puzzle grid.
 MinesweeperGenerator,Generate a Minesweeper grid with given mine density.
 CrosswordGenerator,Generate a simple crossword from word list.
 WordSearchGenerator,Generate a word search puzzle grid.
