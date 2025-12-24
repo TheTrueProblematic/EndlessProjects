@@ -1,4 +1,3 @@
-WordSearchGenerator,Generate a word search puzzle grid.
 KakuroSolver,Solve a Kakuro puzzle with backtracking.
 SlidingPuzzle15,Implement the classic 15‑puzzle sliding tiles game.
 LightsOutGame,Implement the Lights Out puzzle on a grid.
