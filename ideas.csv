@@ -1,4 +1,3 @@
-TodoCSVSync,Sync command‑line to‑do items to a local CSV file.
 StopwatchLapTimer,Stopwatch with lap recording functionality.
 WeatherCLIParser,Parse a local text weather report and format nicely.
 ArgumentParserDemo,Demonstrate command‑line argument parsing for options.
