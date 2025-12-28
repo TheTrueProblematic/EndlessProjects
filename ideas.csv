@@ -1,4 +1,3 @@
-StopwatchLapTimer,Stopwatch with lap recording functionality.
 WeatherCLIParser,Parse a local text weather report and format nicely.
 ArgumentParserDemo,Demonstrate command‑line argument parsing for options.
 ClipboardManager,Copy and store snippets from stdin to clipboard.
