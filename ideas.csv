@@ -1,4 +1,3 @@
-ArgumentParserDemo,Demonstrate command‑line argument parsing for options.
 ClipboardManager,Copy and store snippets from stdin to clipboard.
 AsciiBarChart,Render numeric data as horizontal bar chart in ASCII.
 AsciiLineChart,Render a line chart of data in ASCII.
