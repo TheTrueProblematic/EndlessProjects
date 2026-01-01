@@ -1,4 +1,3 @@
-AsciiBarChart,Render numeric data as horizontal bar chart in ASCII.
 AsciiLineChart,Render a line chart of data in ASCII.
 RomanArithmetic,Perform arithmetic with Roman numerals.
 BinaryClock,Display current time as binary representation.
