@@ -1,4 +1,3 @@
-ProcessMonitor,Display running processes with CPU and memory usage.
 PortScanner,Scan open ports on a local network address.
 PingSweeper,Ping a range of IP addresses and report status.
 NetworkSpeedTest,Simple download/upload speed test using local sockets.
