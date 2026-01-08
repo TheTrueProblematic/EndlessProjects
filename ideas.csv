@@ -1,4 +1,3 @@
-PingSweeper,Ping a range of IP addresses and report status.
 NetworkSpeedTest,Simple download/upload speed test using local sockets.
 DiskUsageAnalyzer,Analyze disk usage by folder size.
 SimpleHTTPServerLogger,Start a local HTTP server and log requests.
