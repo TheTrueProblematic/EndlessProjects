@@ -1,4 +1,3 @@
-SimpleHTTPServerLogger,Start a local HTTP server and log requests.
 FileLockChecker,Check if a file is locked by another process.
 UserSessionTimer,Measure time spent in the current shell session.
 EnvVarManager,"List, add, and remove environment variables temporarily."
