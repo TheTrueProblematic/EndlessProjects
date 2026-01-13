@@ -1,4 +1,3 @@
-UserSessionTimer,Measure time spent in the current shell session.
 EnvVarManager,"List, add, and remove environment variables temporarily."
 ClipboardHistory,Maintain clipboard history accessible via CLI.
 TicTacToeAI,Tic‑Tac‑Toe against a minimax AI player.
