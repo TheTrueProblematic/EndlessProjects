@@ -1,4 +1,3 @@
-MancalaGame,Implement Mancala game rules and gameplay.
 SmithNumberChecker,Check if a number is a Smith number (composite whose digit sum equals sum of digits of prime factors).
 AbundantNumberChecker,Check if a number is abundant (sum of proper divisors > number).
 DeficientNumberChecker,Check if a number is deficient (sum of proper divisors < number).
