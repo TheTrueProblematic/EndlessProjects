@@ -1,4 +1,3 @@
-DeficientNumberChecker,Check if a number is deficient (sum of proper divisors < number).
 FriendlyPairChecker,Check if two numbers form an amicable pair.
 SophieGermainPrimeChecker,Check if a number is a Sophie Germain prime.
 CatalanNumberGenerator,Generate Catalan numbers up to N.
