@@ -1,4 +1,3 @@
-BellNumberGenerator,Generate Bell numbers up to N.
 PerrinSequence,Generate the Perrin sequence up to N terms.
 LucasSequence,Generate Lucas numbers up to N terms.
 HappyPrimeChecker,Check if a number is both happy and prime.
