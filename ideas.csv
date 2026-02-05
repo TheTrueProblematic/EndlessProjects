@@ -1,4 +1,3 @@
-LucasSequence,Generate Lucas numbers up to N terms.
 HappyPrimeChecker,Check if a number is both happy and prime.
 RepunitChecker,Check if a number is a repunit in decimal.
 TriangularNumberChecker,Check if a number is triangular.
