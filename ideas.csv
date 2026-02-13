@@ -1,4 +1,3 @@
-DigitalRootCalculator,Compute the digital root of a number.
 PalindromePrimeChecker,Check if a prime number is also palindromic.
 WeirdNumberChecker,Check if a number is weird (abundant but not semiperfect).
 SuperPerfectNumberChecker,Check if a number is super‑perfect (sum of divisors of sum of divisors equals 2*n).
